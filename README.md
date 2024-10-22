@@ -1,4 +1,9 @@
-<h1>Hi 👋, I'm Mashael Ali</h1>>
+<h1>Hi 👋, I'm Mashael Ali</h1>
+
+<h3>Currently working as a Front-End Developer 🎨 focusing on UI/UX design. 💻</h3>
+
+
+
 
 
 
