@@ -9,13 +9,13 @@
 
 🤝 I can help businesses improve their design and online presence with responsive web interfaces.
 
-🌐 Check out my projects on [GitHub](https://github.com/mashael-awaji).
+🌐 Check out my projects on [GitHub](https://github.com/mashael053).
 
 💬 Ask me about web design and app development.
 
 📫 How to reach me: mshalalwajy08@gmail.com
 
-📄 Learn more about my experiences: [LinkedIn](https://www.linkedin.com/in/mashael-awaji)
+📄 Learn more about my experiences: [LinkedIn](https://www.linkedin.com/in/mashael-ali-333a73251?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
 
 ### Languages & Tools:
 [![HTML](https://img.icons8.com/color/48/000000/html-5.png)](https://developer.mozilla.org/en-US/docs/Web/HTML) 
