@@ -29,4 +29,3 @@
 [![SQL](https://img.icons8.com/color/48/000000/sql.png)](https://www.w3schools.com/sql/) 
 [![Figma](https://img.icons8.com/color/48/000000/figma.png)](https://www.figma.com/) 
 [![GitHub](https://img.icons8.com/color/48/000000/github.png)](https://github.com/) 
-[![Miro](https://img.icons8.com/color/48/000000/miro.png)](https://miro.com/)
