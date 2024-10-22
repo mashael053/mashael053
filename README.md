@@ -1,6 +1,5 @@
 <h1>Hi 👋, I'm Mashael Awaji</h1>
 
-🔭⚡ أعمل حاليًا على  ui-ux & فرونت - developer
 <div style="background-color: #121212; color: #fff; padding: 20px;">
 
 ⚡ I am currently working as a ui-ux & front-end developer
