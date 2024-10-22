@@ -72,8 +72,9 @@ Mashael Ali Awaji
 ⚡ Fun fact: I love working in teams and believe in the power of collaboration!
 
 Connect with me:
-- GitHub: mashael-awaji
-- LinkedIn: mashael-awaji
+<a href="https://github.com/mashael053" style="color: #0077b6; text-decoration: none;">GitHub</a>
+
+- LinkedIn:
 - Twitter: @mashael_awaji
 
 ### Languages and Tools:
