@@ -1,23 +1,9 @@
-## Hi  👋
-
-<mashael053/mashael053 is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-<div style="background-color: #121212; color: #fff; padding: 20px;">
-
 <h1>Hi 👋, I'm Mashael Awaji</h1>
 
-<p>A passionate Software Engineer and Data Lover</p>
+🔭⚡ أعمل حاليًا على  ui-ux & فرونت - developer
+<div style="background-color: #121212; color: #fff; padding: 20px;">
+
+⚡ I am currently working as a ui-ux & front-end developer
 
 <div style="display: flex; align-items: center; margin-top: 20px;">
 
@@ -41,10 +27,9 @@ Here are some ideas to get you started:
 
 <li>📧 How to reach me: mshalalwajy08@gmail.com</li>
 
-<li>📄 Know about my experiences: <a href="#" style="color: #0077b6; text-decoration: none;">Resume</a></li>
+<li>📄 Know about my experiences: <a href="" style="color: #0077b6; text-decoration: none;">CV</a></li>
 
-<li>🛹 Fun fact: I love skating 🛼</li>
-
+<li>🎨 Fun fact: I love designing and programming 💻</li>
 </ul>
 
 </div>
