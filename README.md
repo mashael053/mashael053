@@ -54,6 +54,28 @@ Connect with me:
 - LinkedIn: mashael-awaji
 - Twitter: @mashael_awaji
 
+Mashael Ali Awaji
+👩‍💻 Currently a web development trainee seeking to enhance my skills in JavaScript, HTML, and CSS.
+
+👯 Looking to collaborate on web development, UI/UX design, and database management projects.
+
+🤝 I can help businesses improve their online presence through responsive web interfaces and effective database management.
+
+🌐 Check out my projects on GitHub.
+
+💬 Ask me about web development, app development, and database management.
+
+📫 How to reach me: mshalalwajy08@gmail.com
+
+📄 Learn more about my experiences: LinkedIn
+
+⚡ Fun fact: I love working in teams and believe in the power of collaboration!
+
+Connect with me:
+- GitHub: mashael-awaji
+- LinkedIn: mashael-awaji
+- Twitter: @mashael_awaji
+
 ### Languages and Tools:
 HTML, CSS, Bootstrap, Tailwind, JavaScript, TypeScript, React.js, Angular, SQL, PHP, Python, Figma, Adobe XD, Git
 </div>
