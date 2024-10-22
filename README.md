@@ -55,19 +55,6 @@ Connect with me:
 - Twitter: @mashael_awaji
 
 ### Languages and Tools:
-- ![HTML](https://img.icons8.com/color/48/000000/html-5.png) HTML
-- ![CSS](https://img.icons8.com/color/48/000000/css3.png) CSS
-- ![Bootstrap](https://img.icons8.com/color/48/000000/bootstrap.png) Bootstrap
-- ![Tailwind](https://img.icons8.com/color/48/000000/tailwindcss.png) Tailwind
-- ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png) JavaScript
-- ![TypeScript](https://img.icons8.com/color/48/000000/typescript.png) TypeScript
-- ![React](https://img.icons8.com/color/48/000000/react-native.png) React.js
-- ![Angular](https://img.icons8.com/color/48/000000/angularjs.png) Angular
-- ![SQL](https://img.icons8.com/color/48/000000/mysql-logo.png) SQL
-- ![PHP](https://img.icons8.com/color/48/000000/php.png) PHP
-- ![Python](https://img.icons8.com/color/48/000000/python--v1.png) Python
-- ![Figma](https://img.icons8.com/color/48/000000/figma.png) Figma
-- ![Adobe XD](https://img.icons8.com/color/48/000000/adobe-xd.png) Adobe XD
-- ![Git](https://img.icons8.com/color/48/000000/git.png) Git
+HTML, CSS, Bootstrap, Tailwind, JavaScript, TypeScript, React.js, Angular, SQL, PHP, Python, Figma, Adobe XD, Git
 </div>
 
